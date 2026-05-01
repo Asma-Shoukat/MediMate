@@ -42,7 +42,7 @@
 
 It features a context-aware conversational AI engine built on a **finite state machine**, a structured **symptom knowledge base**, real-time **health scoring**, personalised **diet & exercise planning**, and a polished **two-panel Premium Light UI** — all written from scratch in C++17 with Qt 6.
 
-> Built as a complete, production-quality Qt desktop application — not a toy project.
+> Built as a complete, production-quality Qt desktop application .
 
 ---
 
@@ -79,15 +79,16 @@ It features a context-aware conversational AI engine built on a **finite state m
 
 ---
 
-## 🖥️ Screenshots
+## 🖥️ Imgs:
 
 <div align="center">
-  <img src="main_screen.png" alt="Main Action Screen" width="45%">
+<img width="1188" height="935" alt="image" src="https://github.com/user-attachments/assets/faa8ed71-1afd-42ed-9ff2-2c34b4a626d2" />
+
   &nbsp; &nbsp; &nbsp;
-  <img src="chat_screen.png" alt="Chatting Interface" width="45%">
+<img width="1189" height="871" alt="image" src="https://github.com/user-attachments/assets/99edbe76-4385-4b0d-a4b3-a7e31aa7ca4b" />
+
 </div>
 
-> **Tip:** Replace `main_screen.png` and `chat_screen.png` in the repository with your actual screenshots to display them here!
 
 ---
 
