@@ -1,0 +1,46 @@
+# Qt build artifacts
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile
+Makefile.*
+
+# Build directories
+build/
+debug/
+release/
+.qmake.stash
+
+# Object files and binaries
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Qt Creator project files (machine-specific)
+*.pro.user
+CMakeLists.txt.user
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Runtime data (user-specific, not to be committed)
+profiles/
+tasks/
+history/
+
+# IDE
+.vscode/
+.idea/
