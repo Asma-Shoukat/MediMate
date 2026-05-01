@@ -79,6 +79,18 @@ It features a context-aware conversational AI engine built on a **finite state m
 
 ---
 
+## 🖥️ Screenshots
+
+<div align="center">
+  <img src="main_screen.png" alt="Main Action Screen" width="45%">
+  &nbsp; &nbsp; &nbsp;
+  <img src="chat_screen.png" alt="Chatting Interface" width="45%">
+</div>
+
+> **Tip:** Replace `main_screen.png` and `chat_screen.png` in the repository with your actual screenshots to display them here!
+
+---
+
 ## 🏗️ Architecture
 
 ### Conversation State Machine
