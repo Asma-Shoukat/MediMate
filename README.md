@@ -21,20 +21,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Architecture](#-architecture)
-- [Symptom Knowledge Base](#-symptom-knowledge-base)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [How It Works](#-how-it-works)
-- [Tech Stack](#-tech-stack)
-- [Author](#-author)
-- [Disclaimer](#-disclaimer)
-
----
 
 ## 🌟 Overview
 
