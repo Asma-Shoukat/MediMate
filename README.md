@@ -65,7 +65,7 @@ It features a context-aware conversational AI engine built on a **finite state m
 
 ---
 
-## 🖥️ Imgs:
+## System Interface:
 
 <div align="center">
 <img width="1188" height="935" alt="image" src="https://github.com/user-attachments/assets/faa8ed71-1afd-42ed-9ff2-2c34b4a626d2" />
